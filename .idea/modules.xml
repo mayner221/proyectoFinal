@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flutter_ButtonNavigationBar/Flutter_ButtonNavigationBar.iml" filepath="$PROJECT_DIR$/Flutter_ButtonNavigationBar/Flutter_ButtonNavigationBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flutter_ButtonNavigationBar/android/app/src/debug/debug.iml" filepath="$PROJECT_DIR$/Flutter_ButtonNavigationBar/android/app/src/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hola.iml" filepath="$PROJECT_DIR$/hola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flutter_ButtonNavigationBar/android/app/src/profile/profile.iml" filepath="$PROJECT_DIR$/Flutter_ButtonNavigationBar/android/app/src/profile/profile.iml" />
+    </modules>
+  </component>
+</project>
